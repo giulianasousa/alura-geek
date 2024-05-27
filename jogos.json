@@ -1,0 +1,46 @@
+{
+  "jogos": [
+    {
+      "nome": "Just Dance 2024",
+      "valor": "30,00",
+      "imagem": "https://nxplaygames.com.br/wp-content/uploads/2023/11/just-dance-2024-xbox-series-x-s-300x390.jpg",
+      "id": "f131"
+    },
+    {
+      "nome": "Dance Central 2",
+      "valor": "19,00",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857796-MLU72714995704_112023-O.webp",
+      "id": "7e45"
+    },
+    {
+      "nome": "Resident Evil 3",
+      "valor": "30,00",
+      "imagem": "https://m.media-amazon.com/images/I/81FrvcYSI3L._AC_UF1000,1000_QL80_.jpg",
+      "id": "afb0"
+    },
+    {
+      "nome": "SpongeBob ",
+      "valor": "50,00",
+      "imagem": "https://m.media-amazon.com/images/I/71C9YNKU-9L._AC_UF1000,1000_QL80_.jpg",
+      "id": "d6fd"
+    },
+    {
+      "nome": "Disney",
+      "valor": "50,00",
+      "imagem": "https://m.media-amazon.com/images/I/81u8BTnnTYL.jpg",
+      "id": "8d82"
+    },
+    {
+      "id": "9597",
+      "nome": "Overcooked 2",
+      "valor": "22,00",
+      "imagem": "https://cdn.awsli.com.br/2500x2500/53/53761/produto/29813596/c090eb19b1.jpg"
+    },
+    {
+      "id": "05b9",
+      "nome": "it takes two",
+      "valor": "$20,00",
+      "imagem": "https://products.eneba.games/resized-products/W1l8p2e03tMcaKVvuLxl1j8Iiaw9J5EmPkBVuIkIkOM_350x200_3x-0.png"
+    }
+  ]
+}
